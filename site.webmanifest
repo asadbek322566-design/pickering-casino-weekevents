@@ -1,0 +1,18 @@
+{
+  "name": "Pickering Casino Weekevents",
+  "short_name": "Weekevents",
+  "description": "The official event companion for Pickering Casino Resort.",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#05031b",
+  "theme_color": "#05031b",
+  "icons": [
+    {
+      "src": "PickeringCasinoWeekeventsLogo.png",
+      "sizes": "1254x1254",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
