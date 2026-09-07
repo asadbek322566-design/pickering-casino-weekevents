@@ -88,7 +88,7 @@ General resort and venue questions use the official Pickering Casino Resort phon
 - `assets/images/pickering-casino-resort-logo.png` is an official Pickering Casino Resort logo sourced from Great Canadian Entertainment.
 - `assets/images/pickering-arena-concert.jpg` is official photography of The Arena at Pickering Casino Resort.
 - `assets/images/pickering-resort-exterior.jpg` is official Pickering Casino Resort exterior photography.
-- `assets/images/app-seats-screen.png` is the approved simulator screenshot supplied for the website and used in the homepage device preview.
+- `assets/images/app-screen.png` is the approved `AppScreen.png` screenshot supplied for the website and used in the homepage device preview.
 
 Official asset source pages:
 

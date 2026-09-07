@@ -46,7 +46,7 @@ The application and supporting website are developed by panlogo GmbH on behalf o
 12. **External links:** Ticketmaster event and ticket pages, Great Canadian Entertainment or official venue pages, Apple services, and services selected through the iOS share sheet may be opened by the user.
 13. **Legal address and jurisdiction:** The registered postal address of panlogo GmbH is still required. The Terms currently use the law applicable at the registered office of panlogo GmbH while preserving mandatory consumer protections and jurisdiction rules.
 14. **19+ restriction:** The app itself contains no gambling or real money gaming. Individual resort areas, events, tickets, or venue services may have separate age and identification rules. The App Store age questionnaire must reflect the released content and external links.
-15. **Approved screenshots:** `Simulator Screenshot - iPhone 15 Pro - 2026-09-07 at 18.33.02.png` was supplied and confirmed by the user as the correct app image for the website. The optimized site copy is `assets/images/app-seats-screen.png`.
+15. **Approved screenshots:** `AppScreen.png` was supplied and confirmed by the user as the correct app image for the website. The site copy used in the homepage preview is `assets/images/app-screen.png`.
 
 ## Publication details
 
